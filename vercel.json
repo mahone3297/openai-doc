@@ -1,0 +1,6 @@
+{
+    "framework": "hugo",
+    "installCommand": "git submodule add https://github.com/imfing/hextra.git themes/hextra",
+    "buildCommand": "hugo --gc",
+    "outputDirectory": "public"
+}
