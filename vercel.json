@@ -1,6 +1,6 @@
 {
     "framework": "hugo",
-    "installCommand": "git submodule update --init",
+    "installCommand": "git submodule update --init --recursive",
     "buildCommand": "hugo --gc",
     "outputDirectory": "public"
 }
