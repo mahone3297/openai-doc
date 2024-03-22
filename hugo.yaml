@@ -1,3 +1,26 @@
-baseURL: https://example.org/
+baseURL: https://openai-doc.aihub2022.top
 languageCode: en-us
-title: My New Hugo Site
+title: OpenAI 文档 | AI Hub 2022
+
+theme: hextra
+
+menu:
+  main:
+    - name: 文档
+      pageRef: /docs
+      weight: 1
+    # - name: Blog
+    #   pageRef: /blog
+    #   weight: 2
+    # - name: About
+    #   pageRef: /about
+    #   weight: 3
+    - name: Search
+      weight: 4
+      params:
+        type: search
+    - name: GitHub
+      weight: 5
+      url: "https://github.com/mahone3297/openai-doc"
+      params:
+        icon: github
