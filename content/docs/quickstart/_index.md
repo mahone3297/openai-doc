@@ -1,6 +1,8 @@
 +++
 title = '开发者快速入门'
-draft = true
+draft = false
+description = "快速了解如何使用OpenAI API来创建智能应用程序。学习设置开发环境，安装Python库，并发送第一个API请求。了解如何设置API密钥，以及如何在项目中使用虚拟环境。在终端或命令行中配置Python，并利用Python代码与OpenAI API进行交互。"
+keywords = ["开发者快速入门", "OpenAI API", "Python库", "智能层", "Chat Completions", "GPT-4", "开发环境", "SDK", "API请求", "API密钥", "虚拟环境", "终端", "命令行", "Python安装", "API调用"]
 +++
 
 ## 使用OpenAI API快速上手
