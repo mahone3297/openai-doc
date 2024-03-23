@@ -154,3 +154,7 @@ Chat Completions示例突显了我们模型的一个优势领域：创造能力�
 - 想知道OpenAI的模型能做什么？查看我们的示例提示库。
 - 想要尝试API而不编写任何代码吗？开始在Playground中进行实验。
 - 在开始构建时，请记住我们的使用政策。
+
+---
+
+https://platform.openai.com/docs/quickstart?context=python
