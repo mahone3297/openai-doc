@@ -1,8 +1,10 @@
 +++
 title = '模型'
 draft = false
+weight = 3
 description = "OpenAI API提供一系列多样化的模型，包括GPT-4、GPT-3.5、DALL·E、TTS、Whisper、Embeddings、Moderation和GPT base等。了解模型的概述、持续模型升级、GPT-4和GPT-4 Turbo、GPT-3.5 Turbo、DALL·E、TTS、Whisper、Embeddings、审查、默认端点使用政策和模型端点兼容性。"
-keywords = "OpenAI, 模型, GPT-4, GPT-3.5, DALL·E, TTS, Whisper, Embeddings, Moderation, GPT base, Deprecated, API, 文本生成, 人工智能, 图像生成, 语音识别, 嵌入模型, 审查, 默认政策, 兼容性"
+keywords = ["OpenAI", "模型", "GPT-4", "GPT-3.5", "DALL·E", "TTS", "Whisper", "Embeddings", "Moderation", "GPT base", "Deprecated", "API", "文本生成", "人工智能", "图像生成", "语音识别", "嵌入模型", "审查", "默认政策", "兼容性"]
+
 +++
 
 ## 概述

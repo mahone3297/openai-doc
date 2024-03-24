@@ -1,6 +1,7 @@
 +++
 title = '介绍'
 draft = false
+weight = 1
 description = "在OpenAI，我们提供一系列具有不同功能和价格点的模型，以及微调自定义模型的能力。"
 keywords = ["OpenAI","API","文本生成模型","助手","嵌入","标记","指南"]
 +++
