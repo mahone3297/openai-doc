@@ -305,4 +305,8 @@ ChatGPT为我们的模型提供了一个聊天界面和一系列内置功能，�
 
 ---
 
-https://platform.openai.com/docs/guides/text-generation
+- [官网](https://platform.openai.com/docs/guides/text-generation)
+- 本文
+    - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/guides/text-generation/)
+    - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976709&idx=1&sn=9eb27ff21c26135ced8652ff47245201&chksm=86c7d540b1b05c56c90f01fb35f3fec3b53fce07c033b3b718a4a813065ad6968328988f3f18&token=449037386&lang=zh_CN#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137144689)
