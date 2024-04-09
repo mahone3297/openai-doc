@@ -63,7 +63,7 @@ keywords = []
 
 - [官网](https://platform.openai.com/docs/guides/function-calling)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
-    <!-- - [微信 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/guides/function-calling/)
+    - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976788&idx=1&sn=e7383b7d84376cf4bf796288f0a69375&chksm=86c7d511b1b05c07bc1870249d0f66980520bc8b7fd75736543a0bd20951331661ddb2e3affd#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137545953)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/691471441)
