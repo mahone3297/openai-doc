@@ -460,7 +460,7 @@ OpenAI的嵌入已经归一化为长度1，这意味着：
 
 - [官网](https://platform.openai.com/docs/guides/embeddings)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/guides/embeddings/)
     <!-- - [微信 - 从零开始学AI](...) -->
     <!-- - [CSDN - 从零开始学AI](...) -->
     <!-- - [知乎 - 从零开始学AI](...) -->
