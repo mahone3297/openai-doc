@@ -2,6 +2,7 @@
 title = '微调'
 date = 2024-04-16T18:52:01+08:00
 draft = false
+weight = 7
 categories = ['AI', 'OpenAI', 'Fine-tuning']
 tags = ['AI', 'OpenAI', 'Fine-tuning']
 description = '探索如何通过微调OpenAI模型来定制应用程序，提高文本生成质量，降低成本，并减少延迟。了解微调步骤、模型选择、数据集准备、以及如何使用微调模型。'
