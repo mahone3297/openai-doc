@@ -621,5 +621,5 @@ GPT-4 微调目前处于实验性阶段，符合条件的开发者可以通过�
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137995935)
     - [掘金 - 从零开始学AI](https://juejin.cn/post/7359505949319823372)
     - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/693556635)
-    - [译][阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1487504)
-    - [限引流][腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2410927)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1487504)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2410927)
