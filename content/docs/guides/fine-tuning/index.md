@@ -616,7 +616,10 @@ GPT-4 微调目前处于实验性阶段，符合条件的开发者可以通过�
 
 - [官网](https://platform.openai.com/docs/guides/fine-tuning)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
-    <!-- - [微信 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/guides/fine-tuning/)
+    - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976869&idx=1&sn=90622943710a8949e02cfdaf58d3c625&chksm=86c7cae0b1b043f6d6729b787b63782f9135d31658e4384f3a37ef1aa4f14e32e5d2dafbf6bb#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137995935)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7359505949319823372)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/693556635)
+    - [译][阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1487504)
+    - [限引流][腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2410927)
