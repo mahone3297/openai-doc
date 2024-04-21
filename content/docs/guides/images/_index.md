@@ -188,4 +188,4 @@ except openai.OpenAIError as e:
     - [掘金 - 从零开始学AI](https://juejin.cn/post/7359877430339747903)
     - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/693687942)
     <!-- - [译][阿里云 - 从零开始学AI](...) -->
-    - [限引流][腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2411031)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2411031)
