@@ -2,10 +2,10 @@
 title = '图像生成'
 date = 2024-04-20T20:29:37+08:00
 draft = false
-categories = []
-tags = []
-description = ''
-keywords = []
+categories = ['AI', 'OpenAI', 'images']
+tags = ['AI', 'OpenAI', 'images']
+description = '学习如何在API中使用DALL·E生成或操作图像。'
+keywords = ['图像生成', 'DALL·E', 'API', '生成图像', '图像编辑', '图像变体', '内容管理', '错误处理', 'API请求']
 +++
 
 学习如何在API中使用DALL·E生成或操作图像。
@@ -107,14 +107,85 @@ image_url = response.data[0].url
 
 与编辑端点类似，输入图像必须是小于4MB的正方形PNG图像。
 
+### 内容管理
+基于我们的内容政策，对提示和图像进行过滤，当提示或图像被标记时返回错误。
+
+## 特定语言的提示
+### 使用内存中的图像数据
+上面指南中的Python示例使用open函数从磁盘读取图像数据。在某些情况下，您可能将图像数据存储在内存中。下面是一个使用存储在BytesIO对象中的图像数据的示例API调用：
+
+```python
+from io import BytesIO
+from openai import OpenAI
+client = OpenAI()
+
+# This is the BytesIO object that contains your image data
+byte_stream: BytesIO = [your image data]
+byte_array = byte_stream.getvalue()
+response = client.images.create_variation(
+  image=byte_array,
+  n=1,
+  model="dall-e-2",
+  size="1024x1024"
+)
+```
+
+### 处理图像数据
+在将图像传递给API之前进行操作可能很有用。以下是一个使用PIL调整图像大小的示例：
+
+```python
+from io import BytesIO
+from PIL import Image
+from openai import OpenAI
+client = OpenAI()
+
+# Read the image file from disk and resize it
+image = Image.open("image.png")
+width, height = 256, 256
+image = image.resize((width, height))
+
+# Convert the image to a BytesIO object
+byte_stream = BytesIO()
+image.save(byte_stream, format='PNG')
+byte_array = byte_stream.getvalue()
+
+response = client.images.create_variation(
+  image=byte_array,
+  n=1,
+  model="dall-e-2",
+  size="1024x1024"
+)
+```
+
+### 错误处理
+由于无效输入、速率限制或其他问题，API请求可能会返回错误。可以使用try...except语句处理这些错误，并且错误详情可以在e.error中找到：
+
+```python
+import openai
+from openai import OpenAI
+client = OpenAI()
+
+try:
+  response = client.images.create_variation(
+    image=open("image_edit_mask.png", "rb"),
+    n=1,
+    model="dall-e-2",
+    size="1024x1024"
+  )
+  print(response.data[0].url)
+except openai.OpenAIError as e:
+  print(e.http_status)
+  print(e.error)
+```
+
 ---
 
-<!-- - [官网](...) -->
+- [官网](https://platform.openai.com/docs/guides/images/)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
-    <!-- - [微信 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/guides/images/)
+    - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976877&idx=1&sn=6060488c66cffd3484e26d7c99cd3705&chksm=86c7cae8b1b043fe3d21950723d0fb67a659c713b59ddf3704c988ea688335f8556e4a84b72e#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/138030067)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7359877430339747903)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/693687942)
     <!-- - [译][阿里云 - 从零开始学AI](...) -->
-    <!-- - [限引流][腾讯云 - 从零开始学AI](...) -->
+    - [限引流][腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2411031)
