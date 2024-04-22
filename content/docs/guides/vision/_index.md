@@ -255,10 +255,10 @@ print(response.choices[0].message.content)
 
 - [官网](https://platform.openai.com/docs/guides/vision)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
-    <!-- - [微信 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [译][阿里云 - 从零开始学AI](...) -->
-    <!-- - [限引流][腾讯云 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/guides/vision/)
+    - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976881&idx=1&sn=74dfdbf3e4814c3c2f2c1be92338edb3&chksm=86c7caf4b1b043e21d7530b85eda6ff859584796f066ff9fb07dee3319e91486ace13ed03adc#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/138072559)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7360269869399638070)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/693849886)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1488203)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2411218)
