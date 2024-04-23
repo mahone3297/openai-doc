@@ -105,7 +105,7 @@ response.stream_to_file("output.mp3")
 
 - [官网](https://platform.openai.com/docs/guides/text-to-speech)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/guides/text-to-speech/)
     <!-- - [微信 - 从零开始学AI](...) -->
     <!-- - [CSDN - 从零开始学AI](...) -->
     <!-- - [掘金 - 从零开始学AI](...) -->
