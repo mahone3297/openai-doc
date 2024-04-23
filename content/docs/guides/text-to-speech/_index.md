@@ -106,9 +106,9 @@ response.stream_to_file("output.mp3")
 - [官网](https://platform.openai.com/docs/guides/text-to-speech)
 - 本文
     - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/guides/text-to-speech/)
-    <!-- - [微信 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [译][阿里云 - 从零开始学AI](...) -->
-    <!-- - [限引流][腾讯云 - 从零开始学AI](...) -->
+    - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976886&idx=1&sn=c2e7aa98a209e349b35307a986d16f11&chksm=86c7caf3b1b043e5d21bde41a74cc1d896782cd03c0ddd44fa3d1313246576aef6e179a635c9#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/138116433)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7360575576418238503)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/694032995)
+    - [译][阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1489679)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2411365)
