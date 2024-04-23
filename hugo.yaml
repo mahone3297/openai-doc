@@ -14,6 +14,17 @@ menu:
     #   url: https://github.com/mahone3297/
     #   params:
     #       icon: brand-github
+  # sidebar:
+  #   - name: More
+  #     params:
+  #       type: separator
+  #     weight: 1
+  #   - name: "About"
+  #     pageRef: "/about"
+  #     weight: 2
+  #   - name: "Hugo Docs ↗"
+  #     url: "https://gohugo.io/documentation/"
+  #     weight: 3
   main:
     - name: AI 合集
       url: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA3MDIyNTgzNA==&action=getalbum&album_id=3280266823330201601#wechat_redirect
