@@ -5,8 +5,8 @@ draft = false
 weight = 11
 categories = ['AI', 'OpenAI', 'speech-to-text']
 tags = ['AI', 'OpenAI', 'speech-to-text']
-description = ''
-keywords = []
+keywords = ["语音转文字", "音频转文本", "语音识别", "Whisper API", "音频转录", "音频翻译", "GPT-4", "后处理", "提示参数", "可靠性提升"]
+description = "学习如何将音频转换为文本。音频 API 提供了语音转文本的端点，转录和翻译，基于我们先进的开源大型-v2 Whisper 模型。"
 +++
 
 学习如何将音频转换为文本
@@ -201,9 +201,9 @@ corrected_text = generate_corrected_transcript(0, system_prompt, fake_company_fi
 - [官网](https://platform.openai.com/docs/guides/speech-to-text)
 - 本文
     - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/guides/text-to-speech/)
-    <!-- - [微信 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976946&idx=1&sn=52b1c71ba728442a58275a4b8a36fbf9&chksm=86c7cab7b1b043a15725a4a2fb7092f17139d23e186ddafb7781f731af55c0f9b48e36e39302#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/138279388)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7362562720707198988)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/695031689)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1495166)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2413608)
