@@ -1,5 +1,5 @@
 +++
-title = '语音转文本'
+title = '语音转文字'
 date = 2024-04-25T10:54:38+08:00
 draft = false
 weight = 11
@@ -200,7 +200,7 @@ corrected_text = generate_corrected_transcript(0, system_prompt, fake_company_fi
 
 - [官网](https://platform.openai.com/docs/guides/speech-to-text)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/guides/text-to-speech/)
     <!-- - [微信 - 从零开始学AI](...) -->
     <!-- - [CSDN - 从零开始学AI](...) -->
     <!-- - [掘金 - 从零开始学AI](...) -->
