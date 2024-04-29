@@ -5,8 +5,8 @@ draft = false
 weight = 12
 categories = ['AI', 'OpenAI', 'moderation']
 tags = ['AI', 'OpenAI', 'moderation']
-description = ''
-keywords = []
+description = '学习如何将适度考虑融入你的人工智能应用中。'
+keywords = ['适度', '人工智能', '应用', '文本检查', '分类', '有害性']
 +++
 
 学习如何将适度考虑融入你的人工智能应用中。
@@ -96,10 +96,10 @@ output = response.results[0]
 
 - [官网](https://platform.openai.com/docs/guides/moderation)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
-    <!-- - [微信 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/guides/moderation/)
+    - [微信 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976954&idx=1&sn=e54b539cf931803b91cb1c5e2a4e7c93&chksm=86c7cabfb1b043a92c41736f9d4dba54769b6c7489967dbf7f439f245092b311b400fae64a7c#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/138300983)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7362756601725960231)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/695145921)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1495997)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2413728)
