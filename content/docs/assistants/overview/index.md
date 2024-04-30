@@ -144,10 +144,10 @@ else:
 
 - [官网](https://platform.openai.com/docs/assistants/overview)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
-    <!-- - [微信 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/assistants/overview/)
+    - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976963&idx=1&sn=ce8d5cb6c1dccb8dee68972dd84d126e&chksm=86c7ca46b1b04350ee2b453b7c043f2db5348301a21fbba024947ce7ffb72ffa4e5322361f4b#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/138349027)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7363193554162810943)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/695145921)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1498664)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2414173)
