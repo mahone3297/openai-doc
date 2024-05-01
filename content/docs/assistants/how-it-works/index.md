@@ -238,10 +238,11 @@ run = client.beta.threads.runs.create(
 
 - [官网](https://platform.openai.com/docs/assistants/how-it-works)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
-    <!-- - [公众号 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/assistants/how-it-works/)
+    - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976972&idx=1&sn=8fe3104422252440b822471f0d32b15c&chksm=86c7ca49b1b0435f327feccd40b7929a227c172140c5f0efe3fb221fb4ef4be4a33f41983bcb#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/138373292)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7363503456538083347)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/695601734)
+    - [简书 - 从零开始学AI](https://www.jianshu.com/p/20a250614709)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1499354)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2414454)
