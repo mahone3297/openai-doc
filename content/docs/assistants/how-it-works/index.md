@@ -243,6 +243,5 @@ run = client.beta.threads.runs.create(
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/138373292)
     - [掘金 - 从零开始学AI](https://juejin.cn/post/7363503456538083347)
     - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/695601734)
-    - [简书 - 从零开始学AI](https://www.jianshu.com/p/20a250614709)
     - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1499354)
     - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2414454)
