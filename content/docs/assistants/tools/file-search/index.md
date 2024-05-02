@@ -346,10 +346,10 @@ for file_batch in chunked(all_files, 100):
 
 - [官网](https://platform.openai.com/docs/assistants/tools/file-search)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
-    <!-- - [公众号 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/assistants/tools/file-search/)
+    - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976977&idx=1&sn=2bf90c5f27fb6738b762ad5efd5d0e82&chksm=86c7ca54b1b04342e762bf05cb297491667bf3db9753616e1a9a707f898a61fe7b425b0686a2#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/138401478)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7363607004349497383)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/695732918)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1499686)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2414585)
