@@ -217,10 +217,10 @@ run_steps = client.beta.threads.runs.steps.list(
 
 - [官网](https://platform.openai.com/docs/assistants/tools/code-interpreter)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
-    <!-- - [公众号 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/assistants/tools/code-interpreter/)
+    - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976982&idx=1&sn=dd6d5132fc9ef83beeab137b3e32b33e&chksm=86c7ca53b1b04345600c4477234f64936f6ce1f01f16cd9ab480041b9d23df3183419d83b09d#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/138417335)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7363927383839621161)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/695794569)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1499820)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2414679)
