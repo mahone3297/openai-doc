@@ -119,7 +119,7 @@ client = OpenAI(default_headers={"OpenAI-Beta": "assistants=v1"})
 
 - [官网](https://platform.openai.com/docs/assistants/migration)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/assistants/migration/)
     <!-- - [公众号 - 从零开始学AI](...) -->
     <!-- - [CSDN - 从零开始学AI](...) -->
     <!-- - [掘金 - 从零开始学AI](...) -->
