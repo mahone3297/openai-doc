@@ -1,5 +1,5 @@
 +++
-title = '助手如何工作（Beta）'
+title = '助手如何工作 Beta'
 date = 2024-05-01T11:46:18+08:00
 draft = false
 weight = 2
