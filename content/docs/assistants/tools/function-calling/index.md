@@ -5,8 +5,8 @@ draft = false
 weight = 5
 categories = ['AI', 'OpenAI', 'assistants']
 tags = ['AI', 'OpenAI', 'assistants']
-description = ''
-keywords = []
+description = "类似于聊天完成 API，助手 API 支持函数调用。函数调用允许您描述函数给助手 API，并让它智能地返回需要调用的函数及其参数。"
+keywords = ["OpenAI", "助手 API", "函数调用", "天气助手", "天气查询", "温度查询", "降雨概率"]
 +++
 
 类似于聊天完成 API，助手 API 支持函数调用。函数调用允许您描述函数给助手 API，并让它智能地返回需要调用的函数及其参数。
@@ -232,10 +232,10 @@ else:
 
 - [官网](https://platform.openai.com/docs/assistants/tools/function-calling)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
-    <!-- - [公众号 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/assistants/tools/function-calling/)
+    - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976986&idx=1&sn=febd0cf311c1054cf4667fd2c9091e7a&chksm=86c7ca5fb1b043498d36db50f62b81c8e3517c12994c1da7830296bd91ae7a7eaf4849dd4a7b#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/138491318)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7365679089811767337)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/696137164)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1500524)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2415043)
