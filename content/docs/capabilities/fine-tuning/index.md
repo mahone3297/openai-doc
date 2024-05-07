@@ -2,7 +2,7 @@
 title = '微调'
 date = 2024-04-16T18:52:01+08:00
 draft = false
-weight = 7
+weight = 4
 categories = ['AI', 'OpenAI', 'Fine-tuning']
 tags = ['AI', 'OpenAI', 'Fine-tuning']
 description = '探索如何通过微调OpenAI模型来定制应用程序，提高文本生成质量，降低成本，并减少延迟。了解微调步骤、模型选择、数据集准备、以及如何使用微调模型。'
@@ -512,7 +512,7 @@ Weights and Biases（W&B）是一个用于跟踪机器学习实验的流行工�
 ### 验证您的Weights and Biases帐户与OpenAI
 通过向OpenAI提交有效的Weights and Biases API密钥来进行身份验证。目前，这只能通过账户仪表板完成，并且只能由账户管理员完成。您的Weights and Biases API密钥将以加密形式存储在OpenAI中，并且将允许OpenAI代表您在运行微调作业时向Weights and Biases发布指标和元数据。如果在微调作业上尝试启用Weights and Biases集成而未先对您的OpenAI组织进行Weights and Biases身份验证，将导致错误。
 
-![WandB_Integration](WandB_Integration.png)
+![WandB_Integration](https://cdn.openai.com/API/images/guides/WandB_Integration.png)
 
 ### 启用Weights and Biases集成
 在创建新的微调作业时，您可以通过在作业创建请求的integrations字段下包含一个新的"wandb"集成来启用Weights and Biases集成。该集成允许您指定希望新创建的Weights and Biases运行显示在其中的Weights and Biases项目。
@@ -564,13 +564,13 @@ curl -X POST \\
 
 下面显示了从OpenAI微调作业生成的Weights and Biases运行的示例：
 
-![WandB_Integration_Dashboard1](WandB_Integration_Dashboard1.png)
+![WandB_Integration_Dashboard1](https://cdn.openai.com/API/images/guides/WandB_Integration_Dashboard1.png)
 
 每个微调作业步骤的指标将记录到Weights and Biases运行中。这些指标与微调作业事件对象中提供的相同，也是您可以通过OpenAI微调仪表板查看的相同指标。您可以使用Weights and Biases的可视化工具跟踪微调作业的进度，并将其与您运行过的其他微调作业进行比较。
 
 下面显示了记录到Weights and Biases运行的指标的示例：
 
-![WandB_Integration_Dashboard2](WandB_Integration_Dashboard2.png)
+![WandB_Integration_Dashboard2](https://cdn.openai.com/API/images/guides/WandB_Integration_Dashboard2.png)
 
 # 常见问题解答
 ### 何时应该使用微调而不是嵌入/检索增强生成？

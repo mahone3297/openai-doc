@@ -2,7 +2,7 @@
 title = '图像生成'
 date = 2024-04-20T20:29:37+08:00
 draft = false
-weight = 8
+weight = 5
 categories = ['AI', 'OpenAI', 'images']
 tags = ['AI', 'OpenAI', 'images']
 description = '学习如何在API中使用DALL·E生成或操作图像。'

@@ -2,7 +2,7 @@
 title = '函数调用'
 date = 2024-04-06T19:24:41+08:00
 draft = false
-weight = 5
+weight = 2
 categories = ['AI', 'OpenAI', 'function-calling']
 tags = ['AI', 'OpenAI', 'function-calling']
 description = '学习如何将大型语言模型连接到外部工具。介绍在 API 调用中，您可以描述函数，并让模型智能地选择输出一个 JSON 对象，其中包含调用一个或多个函数的参数。'

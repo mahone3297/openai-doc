@@ -28,7 +28,7 @@ keywords = ["v2", "新功能", "助手API", "OpenAI-Beta", "file_search", "vecto
 
 - [官网](https://platform.openai.com/docs/assistants/whats-new)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/assistants/whats-new/)
     <!-- - [公众号 - 从零开始学AI](...) -->
     <!-- - [CSDN - 从零开始学AI](...) -->
     <!-- - [掘金 - 从零开始学AI](...) -->

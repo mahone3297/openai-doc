@@ -2,7 +2,7 @@
 title = '嵌入'
 date = 2024-04-06T23:22:37+08:00
 draft = false
-weight = 6
+weight = 3
 categories = ['AI', 'OpenAI', 'Embeddings']
 tags = ['AI', 'OpenAI', 'Embeddings']
 description = '学习如何将文本转换为数字，解锁搜索等用例。新的嵌入模型。'

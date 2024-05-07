@@ -2,7 +2,7 @@
 title = '视觉'
 date = 2024-04-22T09:10:02+08:00
 draft = false
-weight = 9
+weight = 6
 categories = ['AI', 'OpenAI', 'vision']
 tags = ['AI', 'OpenAI', 'vision']
 keywords = ["视觉", "GPT-4", "图像理解", "OpenAI", "AI"]

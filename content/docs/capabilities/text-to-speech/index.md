@@ -2,7 +2,7 @@
 title = '文字转语音'
 date = 2024-04-23T07:09:56+08:00
 draft = false
-weight = 10
+weight = 7
 categories = ['AI', 'OpenAI', 'text-to-speech']
 tags = ['AI', 'OpenAI', 'text-to-speech']
 keywords = ["文字转语音", "音频 API", "TTS 模型", "语音端点", "实时音频流", "OpenAI"]

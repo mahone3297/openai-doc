@@ -2,7 +2,7 @@
 title = '适度'
 date = 2024-04-28T19:43:29+08:00
 draft = false
-weight = 12
+weight = 9
 categories = ['AI', 'OpenAI', 'moderation']
 tags = ['AI', 'OpenAI', 'moderation']
 description = '学习如何将适度考虑融入你的人工智能应用中。'

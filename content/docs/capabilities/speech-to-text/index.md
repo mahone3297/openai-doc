@@ -2,7 +2,7 @@
 title = '语音转文字'
 date = 2024-04-25T10:54:38+08:00
 draft = false
-weight = 11
+weight = 8
 categories = ['AI', 'OpenAI', 'speech-to-text']
 tags = ['AI', 'OpenAI', 'speech-to-text']
 keywords = ["语音转文字", "音频转文本", "语音识别", "Whisper API", "音频转录", "音频翻译", "GPT-4", "后处理", "提示参数", "可靠性提升"]
