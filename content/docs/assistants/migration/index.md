@@ -120,9 +120,9 @@ client = OpenAI(default_headers={"OpenAI-Beta": "assistants=v1"})
 - [官网](https://platform.openai.com/docs/assistants/migration)
 - 本文
     - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/assistants/migration/)
-    <!-- - [公众号 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976995&idx=1&sn=4587043e98f94f76685c57c25fc6be51&chksm=86c7ca66b1b04370d675bf051b52c0627fa2a0451e754d67e65a770aeedd17d4ea4255fd5cfc#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/138531242)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7365827944310489151)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/696363362)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1501755)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2415405)
