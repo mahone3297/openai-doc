@@ -186,6 +186,10 @@ GPT基础模型能够理解和生成自然语言或代码，但未经过指令�
 
 - [官网](https://platform.openai.com/docs/models)
 - 本文
-    - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/models/)
+    <!-- - [博客 - 从零开始学AI](...) -->
     - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976697&idx=1&sn=0fd06af620f5124de7a5742f4245b47c&chksm=86c7d5bcb1b05caa316faec4e001514a389d3327d3f49ecc1cd7dd3ce468ed1c9be9df259a57&token=604265090&lang=zh_CN#rd)
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137102037)
+    <!-- - [掘金 - 从零开始学AI](...) -->
+    <!-- - [知乎 - 从零开始学AI](...) -->
+    <!-- - [阿里云 - 从零开始学AI](...) -->
+    <!-- - [腾讯云 - 从零开始学AI](...) -->
