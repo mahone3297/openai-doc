@@ -29,9 +29,9 @@ keywords = ["v2", "新功能", "助手API", "OpenAI-Beta", "file_search", "vecto
 - [官网](https://platform.openai.com/docs/assistants/whats-new)
 - 本文
     - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/assistants/whats-new/)
-    <!-- - [公众号 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977000&idx=1&sn=08aa4661187f89589abb1d3384d9988f&chksm=86c7ca6db1b0437b915069020b3b3c6cb726d372ff178b30197ad4ba20998a6cfa3deb437827#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/138555098)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7366096338842452007)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/696473454)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1502398)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2415541)
