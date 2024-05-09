@@ -270,9 +270,9 @@ Chat Completions API允许在请求中传递函数描述列表。这使得模型
 - [官网](https://platform.openai.com/docs/guides/prompt-engineering)
 - 本文
     - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/guides/prompt-engineering/)
-    <!-- - [公众号 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977006&idx=1&sn=5e835254a879d6af95e8d725a7074f3c&chksm=86c7ca6bb1b0437d3660898d0ef3693474828cab2f1f33d22009ee599aa36d979c6803c05f7a#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/138632570)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7366793018416218131)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/696856357)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1504307)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2416159)
