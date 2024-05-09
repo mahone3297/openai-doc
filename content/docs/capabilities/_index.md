@@ -4,6 +4,8 @@ draft = false
 weight = 2
 categories = ['AI', 'OpenAI', 'CAPABILITIES']
 tags = ['AI', 'OpenAI', 'CAPABILITIES']
-description = "这篇文章探讨了AI的各种能力，包括文本生成、函数调用、嵌入、微调、图像生成、视觉、文字转语音和语音转文字。"
-keywords = ["AI", "OpenAI", "能力", "文本生成", "函数调用", "嵌入", "微调", "图像生成", "视觉", "文字转语音", "语音转文字"]
+description = "这个部分深入探讨了 OpenAI 的各种功能和技术，涵盖了各种模型和工具的介绍、用法和最佳实践。"
+keywords = ["OpenAI", "能力", "功能", "技术", "模型", "工具", "介绍", "用法", "最佳实践"]
 +++
+
+这个部分深入探讨了 OpenAI 的各种功能和技术，涵盖了各种模型和工具的介绍、用法和最佳实践。
