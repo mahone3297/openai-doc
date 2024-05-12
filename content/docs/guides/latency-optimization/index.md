@@ -5,8 +5,8 @@ draft = false
 weight = 4
 categories = ['AI', 'OpenAI', 'guides']
 tags = ['AI', 'OpenAI', 'guides']
-description = ''
-keywords = []
+description = "本指南涵盖了一系列核心原则，您可以应用这些原则来改善在各种LLM相关用例中的延迟。这些技术来自于与广泛的客户和开发人员在生产应用程序上的合作，因此无论您正在构建什么——从细粒度的工作流程到端到端的聊天机器人，都应该适用！"
+keywords = ["LLM", "延迟优化", "AI", "OpenAI", "指南"]
 +++
 
 本指南涵盖了一系列核心原则，您可以应用这些原则来改善在各种LLM相关用例中的延迟。这些技术来自于与广泛的客户和开发人员在生产应用程序上的合作，因此无论您正在构建什么——从细粒度的工作流程到端到端的聊天机器人，都应该适用！
@@ -278,7 +278,7 @@ retrieval:"[true/false - whether retrieval is required]"
 
 - [原文](https://platform.openai.com/docs/guides/latency-optimization)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/guides/latency-optimization/)
     <!-- - [公众号 - 从零开始学AI](...) -->
     <!-- - [CSDN - 从零开始学AI](...) -->
     <!-- - [掘金 - 从零开始学AI](...) -->
