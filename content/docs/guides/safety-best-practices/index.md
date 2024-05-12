@@ -66,10 +66,10 @@ response = client.completions.create(
 
 - [官网](https://platform.openai.com/docs/guides/safety-best-practices)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
-    <!-- - [公众号 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/guides/safety-best-practices/)
+    - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977022&idx=1&sn=e447e9a2925c3eaf385a6c2752883600&chksm=86c7ca7bb1b0436d139e4c9d221e699085f45d9f17b82b3e279f1af89d67b5a23666377d307f#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/138750832)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7367620055317725223)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/697301814)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1506895)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2416863)
