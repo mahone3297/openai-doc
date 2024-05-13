@@ -279,9 +279,9 @@ retrieval:"[true/false - whether retrieval is required]"
 - [原文](https://platform.openai.com/docs/guides/latency-optimization)
 - 本文
     - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/guides/latency-optimization/)
-    <!-- - [公众号 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977048&idx=1&sn=e23f23040f232ec3bb9d96fb7c9b1402&chksm=86c7ca1db1b0430bdc23f058ec92811fdf902e94a09e8a2619a064fea6e3b395acf27e12dc03#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/138795826)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7367997561511411748)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/697442206)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1507184)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2417021)
