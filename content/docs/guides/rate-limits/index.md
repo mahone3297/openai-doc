@@ -341,9 +341,9 @@ for story in stories:
 - [原文](https://platform.openai.com/docs/guides/rate-limits)
 - 本文
     - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/guides/rate-limits/)
-    <!-- - [公众号 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977136&idx=1&sn=01fbef886455bfa5acc28e4c077195b8&chksm=86c7cbf5b1b042e3720f198dca968575ac7dbc4e9de4f3bde6178349232eb93f0513b1986557#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/139005732)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7369537657522995263)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/698333743)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1511660)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2418206)
