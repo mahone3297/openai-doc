@@ -2,25 +2,45 @@
 title = '模型'
 draft = false
 weight = 3
+categories = ['AI', 'OpenAI', 'getstarted']
+tags = ['AI', 'OpenAI', 'getstarted']
 description = "OpenAI API提供一系列多样化的模型，包括GPT-4、GPT-3.5、DALL·E、TTS、Whisper、Embeddings、Moderation和GPT base等。了解模型的概述、持续模型升级、GPT-4和GPT-4 Turbo、GPT-3.5 Turbo、DALL·E、TTS、Whisper、Embeddings、审查、默认端点使用政策和模型端点兼容性。"
 keywords = ["OpenAI", "模型", "GPT-4", "GPT-3.5", "DALL·E", "TTS", "Whisper", "Embeddings", "Moderation", "GPT base", "Deprecated", "API", "文本生成", "人工智能", "图像生成", "语音识别", "嵌入模型", "审查", "默认政策", "兼容性"]
 +++
 
-## 概述
+## 旗舰模型
+- GPT-4o New
+    - Our fastest and most affordable flagship model
+    - Text and image input, text output
+    - 128k context length
+    - Input: $5 | Output: $15*
+- GPT-4 Turbo
+    - Our previous high-intelligence model
+    - Text and image input, text output
+    - 128k context length
+    - Input: $10 | Output: $30*
+- GPT-3.5 Turbo
+    - Our fast, inexpensive model for simple tasks
+    - Text input, text output
+    - 16k context length
+    - Input: $0.50 | Output: $1.50*
 
-OpenAI API由一组具有不同能力和价格点的多样化模型驱动。您还可以通过微调对我们的模型进行定制，以适应您特定的用例。
+## 模型概览
+OpenAI API由一系列具有不同功能和价格点的多样化模型驱动。您还可以通过微调对我们的模型进行定制，以满足您的特定用例需求。
 
-| MODEL         | DESCRIPTION                                                                                                      |
-|---------------|------------------------------------------------------------------------------------------------------------------|
-| GPT-4 and GPT-4 Turbo | 一组模型，改进了GPT-3.5，并且能够理解并生成自然语言或代码。                                               |
-| GPT-3.5 Turbo | 一组模型，改进了GPT-3.5，并且能够理解并生成自然语言或代码。                                                 |
-| DALL·E        | 一个能够根据自然语言提示生成和编辑图像的模型。                                                                   |
-| TTS           | 一组能够将文本转换为自然听觉语音的模型。                                                                       |
-| Whisper       | 一个能够将音频转换为文本的模型。                                                                               |
-| Embeddings    | 一组能够将文本转换为数值形式的模型。                                                                           |
-| Moderation    | 一个经过微调的模型，可以检测文本是否可能敏感或不安全。                                                        |
-| GPT base      | 一组没有遵循指令的模型，能够理解并生成自然语言或代码。                                                         |
-| Deprecated    | 一个完整的模型列表，已经被弃用，并附带建议的替代方案。                                                         |
+| 模型          | 描述                                                              |
+|--------------|------------------------------------------------------------------|
+| GPT-4o       | 最快、最实惠的旗舰型模型                                           |
+| GPT-4 Turbo  | 先前的高智能模型系列                                              |
+| GPT-4        | 先前的高智能模型系列                                              |
+| GPT-3.5 Turbo| 用于简单任务的快速、经济实惠的模型                                |
+| DALL·E       | 一个能够根据自然语言提示生成和编辑图像的模型                       |
+| TTS          | 一组能够将文本转换为自然发音的语音音频的模型                     |
+| Whisper      | 一个能够将音频转换为文本的模型                                   |
+| Embeddings   | 一组能够将文本转换为数值形式的模型                               |
+| Moderation   | 一个经过微调的模型，可以检测文本是否可能敏感或不安全             |
+| GPT base     | 一组没有遵循指示的模型，可以理解并生成自然语言或代码               |
+| Deprecated   | 所有已弃用模型的完整列表，以及建议的替代方案                      |
 
 我们还发布了开源模型，包括Point-E、Whisper、Jukebox和CLIP。
 
@@ -31,6 +51,14 @@ gpt-3.5-turbo、gpt-4和gpt-4-turbo-preview指向最新的模型版本。您可�
 我们还提供静态模型版本，开发人员可以在更新的模型推出后至少继续使用三个月。随着模型更新的新节奏，我们还赋予人们能力，以帮助我们改进不同用例的模型。如果您感兴趣，请查看OpenAI Evals存储库。
 
 在我们的弃用页面上了解更多关于模型弃用的信息。
+
+## GPT-4o
+GPT-4o（“o”代表“omni”）是我们最先进的模型。它是多模态的（接受文本或图像输入并输出文本），具有与GPT-4 Turbo相同的高智能，但效率更高——生成文本的速度快2倍，价格便宜50%。此外，GPT-4o在所有模型中具有最佳的视觉和非英语语言性能。GPT-4o已经向付费客户提供在OpenAI API中使用。了解如何在我们的文本生成指南中使用GPT-4o。
+
+| MODEL           | DESCRIPTION                                                        | CONTEXT WINDOW | TRAINING DATA   |
+|-----------------|--------------------------------------------------------------------|----------------|-----------------|
+| gpt-4o          | 新的 GPT-4o：我们最先进的、多模式旗舰型模型，比 GPT-4 Turbo 更便宜、更快。当前指向 gpt-4o-2024-05-13 版本。 | 128,000 tokens | 截止到2023年10月 |
+| gpt-4o-2024-05-13 | gpt-4o 目前指向这个版本。                                         | 128,000 tokens | 截止到2023年10月 |
 
 ## GPT-4和GPT-4 Turbo
 
@@ -186,7 +214,7 @@ GPT基础模型能够理解和生成自然语言或代码，但未经过指令�
 
 - [官网](https://platform.openai.com/docs/models)
 - 本文
-    <!-- - [博客 - 从零开始学AI](...) -->
+    - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/getstarted/models/)
     - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649976697&idx=1&sn=0fd06af620f5124de7a5742f4245b47c&chksm=86c7d5bcb1b05caa316faec4e001514a389d3327d3f49ecc1cd7dd3ce468ed1c9be9df259a57&token=604265090&lang=zh_CN#rd)
     - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/137102037)
     <!-- - [掘金 - 从零开始学AI](...) -->
