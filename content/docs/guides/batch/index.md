@@ -199,9 +199,9 @@ client.batches.list(limit=10)
 - [原文](https://platform.openai.com/docs/guides/batch)
 - 本文
     - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/guides/batch/)
-    <!-- - [公众号 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977141&idx=1&sn=382aba128e4697d0a368f91ce23ce611&chksm=86c7cbf0b1b042e61f342668261b70fa76b800c7fa4e7e3ad7271100ab1daa60b3a000bd404c#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/139021118)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7369767878781616147)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/698453362)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1512289)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2418534)
