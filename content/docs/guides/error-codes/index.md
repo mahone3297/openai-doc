@@ -236,9 +236,9 @@ except openai.RateLimitError as e:
 - [原文](https://platform.openai.com/docs/guides/error-codes)
 - 本文
     - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/guides/error-codes/)
-    <!-- - [公众号 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977147&idx=1&sn=aef0ef6d0a078f35531fcec492fd51c6&chksm=86c7cbfeb1b042e808e37b4f9b5e7cba27220c599568a4686b90d5d4e12f4bafa622a3417988#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/139045466)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7369951085194756159)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/698627680)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1512598)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2418628)
