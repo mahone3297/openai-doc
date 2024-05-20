@@ -145,9 +145,9 @@ keywords = ["OpenAI", "模型淘汰", "API更新", "GPT", "AI"]
 - [原文](https://platform.openai.com/docs/deprecations)
 - 本文
     - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/guides/deprecations/)
-    <!-- - [公众号 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977158&idx=1&sn=ca53ff551e77d49e4615bef1f6786361&chksm=86c7cb83b1b042958ab6fdca873863180d7ae9a55c740f62844b320ad0a761b1a163cf1b4a4f#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/139067360)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7370883500352733223)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/698796499)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1512953)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2418902)
