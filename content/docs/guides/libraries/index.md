@@ -69,26 +69,37 @@ const chatCompletion = await openai.chat.completions.create({
 - Betalgo.OpenAI by Betalgo
 - OpenAI-API-dotnet by OkGoDoIt
 - OpenAI-DotNet by RageAgainstThePixel
+
 ### C++
 - liboai by D7EAD
+
 ### Clojure
 - openai-clojure by wkok
+
 ### Crystal
 - openai-crystal by sferik
+
 ### Dart/Flutter
 - openai by anasfik
+
 ### Delphi
 - DelphiOpenAI by HemulGM
+
 ### Elixir
 - openai.ex by mgallo
+
 ### Go
 - go-gpt3 by sashabaranov
+
 ### Java
 - openai-java by Theo Kanning
+
 ### Julia
 - OpenAI.jl by rory-linehan
+
 ### Kotlin
 - openai-kotlin by Mouaad Aallam
+
 ### Node.js
 - openai-api by Njerschow
 - openai-api-node by erlapso
@@ -97,28 +108,37 @@ const chatCompletion = await openai.chat.completions.create({
 - gpts by thencc
 - @dalenguyen/openai by dalenguyen
 - tectalic/openai by tectalic
+
 ### PHP
 - orhanerday/open-ai by orhanerday
 - tectalic/openai by tectalic
 - openai-php client by openai-php
+
 ### Python
 - chronology by OthersideAI
+
 ### R
 - rgpt3 by ben-aaron188
+
 ### Ruby
 - openai by nileshtrivedi
 - ruby-openai by alexrudall
+
 ### Rust
 - async-openai by 64bit
 - fieri by lbkolev
+
 ### Scala
 - openai-scala-client by cequence-io
+
 ### Swift
 - OpenAIKit by dylanshine
 - OpenAI by MacPaw
+
 ### Unity
 - OpenAi-Api-Unity by hexthedev
 - com.openai.unity by RageAgainstThePixel
+
 ### Unreal Engine
 - OpenAI-Api-Unreal by KellanM
 
@@ -127,9 +147,9 @@ const chatCompletion = await openai.chat.completions.create({
 - [原文](https://platform.openai.com/docs/libraries)
 - 本文
     - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/guides/libraries/)
-    <!-- - [公众号 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977154&idx=1&sn=2bd15ce96984600e60cdc1480df21d80&chksm=86c7cb87b1b042912d57a1247ed91f7658dcb4757fc7054d825ff85fac96e2beb81f72f13170#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/139060856)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7370341491807993897)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/698738202)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1512840)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2418698)
