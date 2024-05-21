@@ -67,9 +67,9 @@ GPT提供了深度定制ChatGPT以满足特定用例的能力，以及自定义�
 - [原文](https://platform.openai.com/docs/actions/introduction)
 - 本文
     - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/chatgpt/actions/introduction/)
-    <!-- - [公众号 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977168&idx=1&sn=35cf4479e393645bec5c9d71795c8d7c&chksm=86c7cb95b1b042833416dafae696144f7d0588c7b923b2a9ef2d8aa5d38910efbadd5a71f63d#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/139088944)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7370930879705202707)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/698953956)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1513939)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2419019)
