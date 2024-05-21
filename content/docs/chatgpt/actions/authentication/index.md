@@ -41,9 +41,9 @@ keywords = ["动作身份验证", "AI", "OpenAI", "ChatGPT", "actions"]
 - [原文](https://platform.openai.com/docs/actions/authentication)
 - 本文
     - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/chatgpt/actions/authentication/)
-    <!-- - [公众号 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977176&idx=1&sn=e87541de6fa69b252deaec247e93dd7a&chksm=86c7cb9db1b0428bce490df43302a34ad04473c4fa909cc2f2b15d3583d208ba7de4d4897234#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/139091086)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7371040857280233535)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/698973375)
+    <!-- - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1514171) -->
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2419047)
