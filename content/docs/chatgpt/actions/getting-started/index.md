@@ -1,5 +1,5 @@
 +++
-title = '入门指南'
+title = '动作入门指南'
 draft = false
 weight = 2
 categories = ['AI', 'OpenAI', 'ChatGPT', 'actions']
@@ -114,8 +114,6 @@ Actions可以包含用户上传的文件、DALL-E生成的图像以及代码解�
               type: object
               properties:
                 openaiFileIdRefs:
-
-
                   type: array
                   items:
                     type: string
@@ -319,9 +317,9 @@ paths:
 - [原文](https://platform.openai.com/docs/actions/getting-started)
 - 本文
     - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/chatgpt/actions/getting-started/)
-    <!-- - [公众号 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977172&idx=1&sn=8a8423c0c02291f5ba7efbc867ea7fa1&chksm=86c7cb91b1b04287d42903ae4abc2af3e17e1b82d4d6e22fd7e26be21dbfd207612fcdf55ce1#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/139089372)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7371040857279840319)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/698957693)
+    - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1513973)
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2419023)
