@@ -39,9 +39,9 @@ ChatGPT将从以下CIDR块之一的IP地址调用您的动作：
 - [原文](https://platform.openai.com/docs/actions/production)
 - 本文
     - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/chatgpt/actions/production/)
-    <!-- - [公众号 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977180&idx=1&sn=748b9acb98740589d1ba317c1a22d310&chksm=86c7cb99b1b0428fa10f3ea1e10c111c34470902fec93e81598724a81d54bdd64bca617ebdb7#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/139091726)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7371074808148623414)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/698983088)
+    <!-- - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1514194) -->
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2419065)
