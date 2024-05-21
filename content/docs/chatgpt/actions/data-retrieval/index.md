@@ -86,9 +86,9 @@ GPT中一个常见的任务是数据检索。一个动作可能会：
 - [原文](https://platform.openai.com/docs/actions/data-retrieval)
 - 本文
     - [博客 - 从零开始学AI](https://openai-doc.aihub2022.top/docs/chatgpt/actions/data-retrieval/)
-    <!-- - [公众号 - 从零开始学AI](...) -->
-    <!-- - [CSDN - 从零开始学AI](...) -->
-    <!-- - [掘金 - 从零开始学AI](...) -->
-    <!-- - [知乎 - 从零开始学AI](...) -->
-    <!-- - [阿里云 - 从零开始学AI](...) -->
-    <!-- - [腾讯云 - 从零开始学AI](...) -->
+    - [公众号 - 从零开始学AI](https://mp.weixin.qq.com/s?__biz=MzA3MDIyNTgzNA==&mid=2649977185&idx=1&sn=a85ab29a7aa4664a5c1500c57ac45a46&chksm=86c7cba4b1b042b2ce7636c298f3e9cd4e73035a562961e0dc25aec8cfd7f36ce29ac99cd974#rd)
+    - [CSDN - 从零开始学AI](https://blog.csdn.net/mahone3297/article/details/139092202)
+    - [掘金 - 从零开始学AI](https://juejin.cn/post/7371261710621392915)
+    - [知乎 - 从零开始学AI](https://zhuanlan.zhihu.com/p/698984624)
+    <!-- - [阿里云 - 从零开始学AI](https://developer.aliyun.com/article/1514196) -->
+    - [腾讯云 - 从零开始学AI](https://cloud.tencent.com/developer/article/2419070)
