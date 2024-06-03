@@ -28,15 +28,19 @@ menu:
   main:
     - name: AI 合集
       url: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA3MDIyNTgzNA==&action=getalbum&album_id=3280266823330201601#wechat_redirect
-    - name: coze 合集
+      weight: 1
+    - name: AI coze 合集
       url: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA3MDIyNTgzNA==&action=getalbum&album_id=3296371887652241411#wechat_redirect
-    - name: 博客
+      weight: 2
+    - name: AI 博客
       url: https://blog.aihub2022.top/
+      weight: 3
+    - name: AI 词典
+      url: https://dict.aihub2022.top/
+      weight: 4
     - name: OpenAI 中文文档
       url: https://openai-doc.aihub2022.top/
-    - name: 文档
-      pageRef: /docs/getstarted/introduction/
-      weight: 1
+      weight: 5
     # - name: Blog
     #   pageRef: /blog
     #   weight: 2
@@ -44,11 +48,14 @@ menu:
     #   pageRef: /about
     #   weight: 3
     - name: Search
-      weight: 4
+      weight: 6
       params:
         type: search
+    - name: 文档
+      pageRef: /docs/getstarted/introduction/
+      weight: 7
     - name: GitHub
-      weight: 5
+      weight: 8
       url: "https://github.com/mahone3297/openai-doc"
       params:
         icon: github
