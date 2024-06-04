@@ -35,8 +35,8 @@ menu:
     - name: AI 博客
       url: https://blog.aihub2022.top/
       weight: 3
-    - name: AI 词典
-      url: https://dict.aihub2022.top/
+    - name: AI words
+      url: https://ai-words.aihub2022.top/
       weight: 4
     - name: OpenAI 中文文档
       url: https://openai-doc.aihub2022.top/
