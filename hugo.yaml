@@ -33,7 +33,7 @@ menu:
       url: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA3MDIyNTgzNA==&action=getalbum&album_id=3296371887652241411#wechat_redirect
       weight: 2
     - name: AI 博客
-      url: https://blog.aihub2022.top/
+      url: https://ai-blog.aihub2022.top/
       weight: 3
     - name: AI words
       url: https://ai-words.aihub2022.top/
