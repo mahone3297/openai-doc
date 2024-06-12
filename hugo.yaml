@@ -32,7 +32,7 @@ menu:
     - name: AI coze 合集
       url: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA3MDIyNTgzNA==&action=getalbum&album_id=3296371887652241411#wechat_redirect
       weight: 2
-    - name: AI 博客
+    - name: AI blog
       url: https://ai-blog.aihub2022.top/
       weight: 3
     - name: AI words
@@ -51,11 +51,3 @@ menu:
       weight: 6
       params:
         type: search
-    - name: 文档
-      pageRef: /docs/getstarted/introduction/
-      weight: 7
-    - name: GitHub
-      weight: 8
-      url: "https://github.com/mahone3297/openai-doc"
-      params:
-        icon: github
