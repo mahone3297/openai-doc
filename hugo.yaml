@@ -26,6 +26,9 @@ menu:
   #     url: "https://gohugo.io/documentation/"
   #     weight: 3
   main:
+    - name: About
+      url: /about/
+      weight: 1
     - name: AI 合集
       url: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA3MDIyNTgzNA==&action=getalbum&album_id=3280266823330201601#wechat_redirect
       weight: 1
@@ -41,12 +44,6 @@ menu:
     - name: OpenAI 中文文档
       url: https://openai-doc.aihub2022.top/
       weight: 5
-    # - name: Blog
-    #   pageRef: /blog
-    #   weight: 2
-    # - name: About
-    #   pageRef: /about
-    #   weight: 3
     - name: Search
       weight: 6
       params:
